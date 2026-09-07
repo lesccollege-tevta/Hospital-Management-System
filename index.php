@@ -1,3 +1,4 @@
 <?php
 echo "HOSPITAL MANAGEMENT SYSTEM";
+echo "WELCOME";
 ?>
