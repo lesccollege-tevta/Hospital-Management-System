@@ -1,4 +1,5 @@
 <?php
 echo "HOSPITAL MANAGEMENT SYSTEM";
-echo "WELCOME";
+echo "<a href = 'add-patient.php'>PATIENT PAGE</a>";
+
 ?>
