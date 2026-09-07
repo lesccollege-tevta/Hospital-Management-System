@@ -1,0 +1,6 @@
+.vscode/
+.env
+vendors/
+images/
+/node_modules/
+database/
